@@ -8,7 +8,7 @@ Messen der Körpertemperatur über Infrarotsensor am Kopf
 
 Kommunikation der Signalübertragung via Vibrotaktile Signale im bereich der Wirbelsäule, eine Übertragung, Bewegen des Signals sollte über Vibration kommunizert werden
 
-Reaktion auf geänderte Üngebungstemperatur
+Reaktion auf geänderte Ümgebungstemperatur
 
 Steuerung der Körpertemperatur über:
 
