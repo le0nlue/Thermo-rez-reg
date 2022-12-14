@@ -1,0 +1,10 @@
+1. Messung Temp 
+
+2. Start Vibration Idle 
+
+3. Hitzequelle warm - wenn kalt // über Relay
+   Kältequelle kalt - wenn warm // über Relay
+   
+   3.1 wenn Temp veränderung intensivierung Vibration // gegebenfalls mit unterscheidung der Temp
+   
+   
